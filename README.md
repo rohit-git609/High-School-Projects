@@ -6,3 +6,6 @@ It has two modes, user and administrator. The priveledges vary in each client mo
 
 # Quiz
 A basic quiz game.
+
+# Website
+A basic self-made static [website](http://ladybird.coolpage.biz/home.html) using HTML and CSS .
