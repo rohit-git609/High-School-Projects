@@ -5,7 +5,7 @@ Just couple of projects I made in high school, I know the c++ version was outdat
 It has two modes, user and administrator. The priveledges vary in each client mode.
 
 # Quiz
-A basic quiz game.
+A basic quiz and fun game.
 
 # Website
 A basic self-made static [website](http://ladybird.coolpage.biz/home.html) using HTML and CSS .
